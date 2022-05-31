@@ -1,6 +1,6 @@
 const game = {
   title: 'Guess the Number!',
-  biggestNum: 10, // Change this number back to 100 after testing
+  biggestNum: 100,
   smallestNum: 1,
   secretNum: null,
   prevGuesses: [],
